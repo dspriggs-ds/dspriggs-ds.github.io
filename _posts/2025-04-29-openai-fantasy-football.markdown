@@ -106,8 +106,8 @@ This protects sensitive credentials while keeping them easily configurable for d
 ## 🚀 Want to Build It Yourself?
 
 Here’s what you’ll need to get started:
-1. [Azure OpenAI access](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
-2. [nfl_data_py](https://pypi.org/project/nfl-data-py/) for player stats
+1. <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/">Azure OpenAI access</a>
+2. <a href="https://pypi.org/project/nfl-data-py/">nfl_data_py</a> for player stats
 3. Flask for the web interface
 4. Basic HTML templates to render the form and results
 
@@ -119,5 +119,6 @@ This app blends real NFL data with the predictive power of GPT to deliver custom
 
 If you’re a Fantasy Football enthusiast, this app could be your new best friend for weekly matchups and trade decisions!
 
+## 🔗 Try It Yourself
 
-Repo: <a href="https://github.com/dspriggs-ds/fantfootballai">Open AI Fantasy Football</a>
+You can check out the <a href="https://github.com/dspriggs-ds/fantfootballai">GitHub repository</a> to access the code, data links, and dashboard setup instructions. All you need is an Azure Databricks account to get started.

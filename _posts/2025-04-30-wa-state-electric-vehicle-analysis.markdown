@@ -1,16 +1,9 @@
 ---
 layout: default
-title:  "Washington State Electric Vehicle Analysis"
-date:   2025-04-29 14:10:46 -0700
-categories: Azure OpenAI Python
+title:  "Driving Change: Analyzing Washington State Electric Vehicle Trends with Azure Databricks"
+date:   2025-04-30 14:10:46 -0700
+categories: Azure Databricks PySpark Python
 ---
-
-
-Here’s a blog post draft showcasing your personal project analyzing Washington State Electric Vehicle (EV) data using Azure Databricks and PySpark:
-
----
-
-# ⚡ Driving Change: Analyzing Washington State Electric Vehicle Trends with Azure Databricks
 
 As part of my personal interest in sustainability and data engineering, I recently explored a public dataset detailing electric vehicle (EV) registrations in Washington State. My goal was simple: **Is EV adoption truly accelerating, or is it all hype?**
 
@@ -116,4 +109,7 @@ Future extensions could include:
 
 This project reaffirmed the power of **cloud-native data platforms** and **open data** in answering important societal questions. The results were insightful, the development process was smooth, and Azure Databricks provided the perfect environment to build, iterate, and visualize.
 
-Repo: <a href="https://github.com/dspriggs-ds/electric_vehicle">Electric Vehicle Analysis</a>
+## 🔗 Try It Yourself
+
+You can check out the <a href="https://github.com/dspriggs-ds/electric_vehicle">GitHub repository</a> to access the code, data links, and dashboard setup instructions. All you need is an Azure Databricks account to get started.
+

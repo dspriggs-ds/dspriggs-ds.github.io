@@ -120,4 +120,8 @@ flowchart LR
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style E fill:#bbf,stroke:#333,stroke-width:2px
 ```
-Repo: <a href="https://github.com/dspriggs-ds/djs_open_ai_dd">Open AI Unity Catalog Data Dictionary</a>
+
+## 🔗 Try It Yourself
+
+You can check out the <a href="https://github.com/dspriggs-ds/djs_open_ai_dd">GitHub repository</a> to access the code, data links, and dashboard setup instructions. All you need is an Azure Databricks account to get started.
+
