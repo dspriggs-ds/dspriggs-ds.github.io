@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: David's DE Journey
+title: DE Journey
 email: dragoncrane65@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Starting a career in data engineering can be both exhilarating and challenging. 
-  Whether you're transitioning from another technical field or diving straight in, understanding the fundamentals of databases, cloud infrastructure, 
-  and data processing is crucial. This blog is designed to support aspiring data engineers by sharing practical insights, career tips, and industry best practices.
+  This blog is designed to support data engineers by sharing practical insights, career tips, and industry best practices.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,7 +30,7 @@ twitter_username: none
 github_username:  dspriggs-ds
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
