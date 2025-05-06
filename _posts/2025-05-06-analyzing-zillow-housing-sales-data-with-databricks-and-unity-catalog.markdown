@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Analyzing Zillow Housing Sales Data with Databricks and Unity Catalog"
+title: "Analyzing Zillow Housing Sales Data with Databricks and Unity Catalog"
 date:   2025-05-06 12:00:00 -0700
 categories: Azure Databricks Azure OpenAI Unity Catalog Power BI
-
-Housing market trends are a hot topic, especially in today’s rapidly shifting economic landscape. Using publicly available data from [Zillow](https://www.zillow.com/research/data/), we explored housing sales counts across U.S. regions, applied data transformations for analytical flexibility, cleaned inconsistencies, and saved our results into Unity Catalog—all within a Databricks notebook.
+---
+Housing market trends are a hot topic, especially in today’s rapidly shifting economic landscape. Using publicly available data from <a href="https://www.zillow.com/research/data/">Zillow</a>, we explored housing sales counts across U.S. regions, applied data transformations for analytical flexibility, cleaned inconsistencies, and saved our results into Unity Catalog—all within a Databricks notebook.
 
 This post walks through the key steps of the notebook and the rationale behind each one.
 
@@ -67,5 +67,6 @@ This notebook is a great starting point for exploring real estate trends using o
 
 ---
 
-🔗 **Want to see the notebook in action?** \[GitHub](https://github.com/dspriggs-ds/housing_sales)]
+🔗 **Want to see the notebook in action?** 
+<a href="https://github.com/dspriggs-ds/housing_sales">GitHub</a>
 
